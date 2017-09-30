@@ -1,4 +1,3 @@
-# Tessa-Trimble
 <!DOCTYPE=html>
 
 <html>
