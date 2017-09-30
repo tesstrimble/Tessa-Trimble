@@ -1,9 +1,7 @@
 <!DOCTYPE=html>
 
 <html>
-    <head>
-        <title>Tessa Trimble</title>
-    </head>
+    <head></head>
     <body>
         <h1>Tessa Trimble</h1>
         <h2>Hometown</h2>
