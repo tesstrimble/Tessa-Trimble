@@ -15,6 +15,9 @@
             <li>Friends and Family</li>
             <li>Travelling</li>
             </ul>
+         <h3>Find me on instagram:
+            <a href="https://www.instagram.com/tesstrimbs/">Instagram</a>     
+        </h3> 
     </body>
              
 </html>
