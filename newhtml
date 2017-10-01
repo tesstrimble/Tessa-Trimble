@@ -1,0 +1,27 @@
+<!DOCTYPE=html>
+
+<html>
+    <head>
+        <title>Tessa Trimble</title>
+    </head>
+    <body>
+            <img src="https://www.facebook.com/photo.php?fbid=10206756055774509&set=a.1334792304383.40550.1668330102&type=3&theater" class="me" /> 
+            
+        <h1>Tessa Trimble</h1>
+        <h2>Hometown</h2>
+            <p>Born and raised in Vancouver. Although, I lived in Calgary while going to university. I missed the ocean too much!</p>
+        <h2>Best Travel Experience</h2>
+            <p>In 2015 I spent 3 months exploring Thailand, Vietnam and Cambodia. I fell in love with the people, food and explorig new cultures.</p>
+        <h2>Some of my Favourite Things:</h2>
+            <ul>
+            <li>Pizza</li>
+            <li>Snowboarding</li>
+            <li>Friends and Family</li>
+            <li>Travelling</li>
+            </ul>
+        <h3>Find me on instagram:
+            <a href="https://www.instagram.com/tesstrimbs/">Instagram</a>     
+        </h3>
+    </body>
+             
+</html>
